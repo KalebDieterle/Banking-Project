@@ -1,4 +1,4 @@
-A banking program I have made in order to help me practice python and understand objecct-oriented programming along with working files.
+A banking program I have made in order to help me practice python and understand object-oriented programming along with working files.
 
 All of the user data is stored within the bankingdata.txt file, of which is loaded once the program is launched
 
