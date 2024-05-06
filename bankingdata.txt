@@ -1,0 +1,5 @@
+Kaleb,Dieterle,Kleb,kleb18,20,kalebdieterle@gmail.com,savings,912706,6590.78
+Samantha,Carmean,Sarm,Sarm23,19,scarmean@gmail.com,savings,306730,6500.00
+Kayden',Garrett,KDog,Garnett22,20,kgarrett@gmail.com,savings,912706,15623.22
+Steven,Dieterle,SDog,dietz,45,sdieterle@gmail.com,checkings,502121,5234.00
+Hunter,Luckett,kerko,king,20,luckett@gmail.com,savings,758043,34534.00
